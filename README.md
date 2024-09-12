@@ -1,5 +1,5 @@
 # SUSHI🍣
-SUSHI🍣: A Dataset of Synthetic Uni-Channel Signals Based on Heuristic Implementation
+SUSHI🍣: A Dataset of Synthetic Unichannel Signals Based on Heuristic Implementation
 
 ## Overview
 This dataset consists of pairs of time series signal data and corresponding natural language texts that describe the characteristics of these time series patterns. It has been designed with the objective of creating and evaluating a foundational model that facilitates natural language processing tasks, such as query-by-text retrieval for time series signals and captioning for these signals. All time series signals included in this dataset have been artificially generated from predefined combinations of multiple classes of functions. In addition, the paired natural language texts are primarily based on texts randomly selected from a pre-registered list corresponding to the functions, which have been manually refined through visual inspection.
