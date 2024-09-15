@@ -22,7 +22,7 @@ To our knowledge, TRUCE [^1] is the only dataset that somewhat aligns with our o
 4. The time length of the signal is short, with only 12 points.
 5. The quality of the text description is not high due to a limitation on the number of characters.
 
-[^1]: Harsh Jhamtani and Taylor Berg-Kirkpatrick, "Truth-Conditional Captioning of Time Series Data," in EMNLP, 2021.  [URL](https://aclanthology.org/2021.emnlp-main.55.pdf)
+[^1]: Harsh Jhamtani and Taylor Berg-Kirkpatrick, "Truth-Conditional Captioning of Time Series Data," in Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021, pp. 719–733. [URL](https://aclanthology.org/2021.emnlp-main.55.pdf)
 
 ## Strength of the SUSHI Dataset
 1. When we created this dataset, the time series signals were simply compositions of functions predefined by formulas, and the texts were based on ideas we manually conceived, thereby eliminating any copyright issues with the training data.
@@ -37,7 +37,7 @@ Referring to Imani, et al. [^2], we defined the trends as Constant, Linear incre
 Additionally, based on our experience, we added frequently observed time-series patterns in time-series data analysis.
 Please refer to the list of the defined classes below.
 
-[^2]: S. Imani, S. Alaee, and E. Keogh, "Putting the human in the time series analytics loop," in Companion Proceedings of The 2019 World Wide Web Conference, ser. WWW ’19. New York, NY, USA: Association for Computing Machinery, 2019, p. 635–644.[URL](https://doi.org/10.1145/3308560.3317308)
+[^2]: S. Imani, S. Alaee, and E. Keogh, "Putting the human in the time series analytics loop," in Proc. World Wide Web Conference (WWW), 2019, pp. 635–644. [URL](https://doi.org/10.1145/3308560.3317308)
 
 ### 2. Synthesis
 For each sample, we repeatd the following process (i.e., different parameters were randomly selected for each sample):
