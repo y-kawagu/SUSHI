@@ -22,7 +22,7 @@ To our knowledge, TRUCE [^1] is the only dataset that somewhat aligns with our o
 4. The time length of the signal is short, with only 12 points.
 5. The quality of the text description is not high due to a limitation on the number of characters.
 
-[^1]: Harsh Jhamtani and Taylor Berg-Kirkpatrick, "Truth-Conditional Captioning of Time Series Data," in Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021, pp. 719–733. [URL](https://aclanthology.org/2021.emnlp-main.55.pdf)
+[^1]: H. Jhamtani and T. Berg-Kirkpatrick, "Truth-Conditional Captioning of Time Series Data," in Proc. Conference on Empirical Methods in Natural Language Processing (EMNLP), 2021, pp. 719–733. [URL](https://aclanthology.org/2021.emnlp-main.55.pdf)
 
 ## Strength of the SUSHI Dataset
 1. When we created this dataset, the time series signals were simply compositions of functions predefined by formulas, and the texts were based on ideas we manually conceived, thereby eliminating any copyright issues with the training data.
