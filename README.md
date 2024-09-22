@@ -40,7 +40,7 @@ Please refer to the list of the defined classes below.
 [^2]: S. Imani, S. Alaee, and E. Keogh, "Putting the human in the time series analytics loop," in Proc. World Wide Web Conference (WWW), 2019, pp. 635–644. [URL](https://doi.org/10.1145/3308560.3317308)
 
 ### 2. Synthesis
-For each sample, we repeatd the following process (i.e., different parameters were randomly selected for each sample):
+For each sample, we repeated the following process (i.e., different parameters were randomly selected for each sample):
 1. We randomly generated the parameters of $x_{tr}(t)$ corresponding to the trend function (for example, $a$ and $b$ in the case of Linear increase), and under these parameters, we generated the time series signal $x_{tr}(t)$.
 2. We randomly generated the parameters of $x_{pe}(t)$ corresponding to the periodic function (for example, $a$, $b$, $\lambda$, and $\phi$ in the case of a Sinusoidal wave), and under these parameters, we generated the time series signal $x_{pe}(t)$.
 3. We randomly generated the parameters of $x_{fl}(t)$ corresponding to the fluctuation function (for example, $\sigma$ of Gaussian noise), and under these parameters, we generated the time series signal $x_{fl}(t)$.
